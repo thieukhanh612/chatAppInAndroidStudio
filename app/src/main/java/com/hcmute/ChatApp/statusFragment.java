@@ -1,4 +1,4 @@
-package com.example.mychatapptutorial;
+package com.hcmute.ChatApp;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

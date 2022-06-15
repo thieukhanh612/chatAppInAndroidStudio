@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.mychatapptutorial">
+    package="com.hcmute.ChatApp">
 
     <application
         android:allowBackup="true"
@@ -9,14 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyChatAppTutorial">
-        <activity android:name=".specificchat"></activity>
-        <activity android:name=".UpdateProfile" />
-        <activity android:name=".ProfileActivity" />
-        <activity android:name=".chatActivity" />
-        <activity android:name=".setProfile" />
-        <activity android:name=".otpAuthentication" />
-        <activity android:name=".MainActivity" />
-        <activity android:name=".splashscreen">
+        <activity android:name="com.hcmute.ChatApp.specificchat"></activity>
+        <activity android:name="com.hcmute.ChatApp.UpdateProfile" />
+        <activity android:name="com.hcmute.ChatApp.ProfileActivity" />
+        <activity android:name="com.hcmute.ChatApp.chatActivity" />
+        <activity android:name="com.hcmute.ChatApp.setProfile" />
+        <activity android:name="com.hcmute.ChatApp.otpAuthentication" />
+        <activity android:name="com.hcmute.ChatApp.MainActivity" />
+        <activity android:name="com.hcmute.ChatApp.splashscreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

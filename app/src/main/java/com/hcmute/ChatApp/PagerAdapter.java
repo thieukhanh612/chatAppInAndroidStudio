@@ -1,4 +1,4 @@
-package com.example.mychatapptutorial;
+package com.hcmute.ChatApp;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;

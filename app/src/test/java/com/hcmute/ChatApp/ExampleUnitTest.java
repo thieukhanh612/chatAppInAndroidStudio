@@ -1,4 +1,4 @@
-package com.example.mychatapptutorial;
+package com.hcmute.ChatApp;
 
 import org.junit.Test;
 
